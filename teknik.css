@@ -1,0 +1,48 @@
+body{
+    background-color: ghostwhite;
+}
+.innerdiv{
+    height: 600px;
+    width: 90%;
+    margin: 30px auto;
+    font-family: sans-serif;
+}
+.header{
+    text-align: center;
+}
+.bodydiv{
+    background-color: lightgrey;
+    border: 1px solid grey;
+    width: 80%;
+    height: 400px;
+    margin: 20px auto;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    transition: 1s;
+    display: flex;
+    flex-wrap: wrap;
+}
+.innerflex{
+    background-color: white;
+    flex: 3;
+    text-align: center;
+    height: 80%;
+    margin: auto 1%;
+    border: 1px solid black;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    transition: 1s;
+}
+.subheader{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.indexflex_image{
+    height: 230px;
+    margin: auto;
+}
+.iphoneflex_image{
+    height: 150px;
+    margin: 50px auto;
+}
