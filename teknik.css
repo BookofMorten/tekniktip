@@ -22,6 +22,18 @@ body{
     display: flex;
     flex-wrap: wrap;
 }
+.bodydiv_instructions{
+    background-color: lightgrey;
+    border: 1px solid grey;
+    width: 80%;
+    margin: 20px auto;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    transition: 1s;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
 .innerflex{
     background-color: white;
     flex: 3;
@@ -32,6 +44,30 @@ body{
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
     border-radius: 10px;
     transition: 1s;
+}
+.innerflex_instructions{
+    background-color: white;
+    flex: 3;
+    text-align: center;
+    width: 70%;
+    margin: 2% auto;
+    border: 1px solid black;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    transition: 1s;
+    display: flex;
+    flex-direction: row;
+}
+.instructions_flex_text{
+    flex: 1;
+    border: 1px solid black;
+}
+.instructions_flex_img{
+    flex: 1;
+    border: 1px solid black;
+}
+.instructions_image{
+    height: 300px;
 }
 .subheader{
     font-weight: bold;
