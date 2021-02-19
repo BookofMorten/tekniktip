@@ -83,3 +83,14 @@ body{
     height: 150px;
     margin: 50px auto;
 }
+.tilbage_div{
+    text-align: center;
+    margin: auto;
+}
+.tilbage_knap{
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    background-color:#f44336;
+    border-radius: 10px;
+}
