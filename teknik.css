@@ -93,3 +93,22 @@ body{
     background-color:#f44336;
     border-radius: 10px;
 }
+.leftmarg{
+    margin-left: 10px;
+}
+.touchid_flex_img{
+    flex: 1;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.nemid_flex_img{
+    width: 90%
+}
+.nemid_image{
+    height: 400px;
+    margin-top: 40px;
+}
+.nemid_final{
+    height: 300px;
+    margin-top: 40px;
+}
