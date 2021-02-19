@@ -24,7 +24,7 @@ body{
 .bodydiv_instructions{
     background-color: lightgrey;
     border: 1px solid grey;
-    width: 80%;
+    width: 90%;
     margin: 20px auto;
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
     border-radius: 10px;
@@ -48,7 +48,7 @@ body{
     background-color: white;
     flex: 3;
     text-align: center;
-    width: 70%;
+    width: 90%;
     margin: 2% auto;
     border: 1px solid black;
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
