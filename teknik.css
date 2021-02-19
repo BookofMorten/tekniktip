@@ -14,7 +14,6 @@ body{
     background-color: lightgrey;
     border: 1px solid grey;
     width: 80%;
-    height: 400px;
     margin: 20px auto;
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
     border-radius: 10px;
@@ -39,7 +38,7 @@ body{
     flex: 3;
     text-align: center;
     height: 80%;
-    margin: auto 1%;
+    margin: 20px;
     border: 1px solid black;
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
     border-radius: 10px;
