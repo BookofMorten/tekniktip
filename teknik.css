@@ -61,13 +61,17 @@ body{
     flex: 1;
     text-align: left;
     font-family: sans-serif;
-    margin: auto;
+    margin: 20px auto auto 10px;
 }
 .instructions_flex_img{
     flex: 1;
 }
 .instructions_image{
     height: 200px;
+}
+.instructions_image_lyd{
+    height: 400px;
+    margin-top: 10px;
 }
 .subheader{
     font-weight: bold;
